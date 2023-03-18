@@ -88,6 +88,11 @@ html.dark {
   color: #fff;
 }
 
+
 .dark .nav-links a {
+  color: #fff;
+}
+
+.dark .post-links a {
   color: #fff;
 }
