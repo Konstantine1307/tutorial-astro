@@ -96,3 +96,7 @@ html.dark {
 .dark .post-links a {
   color: #fff;
 }
+
+.dark .post-links a:visited {
+  color: #b493e5;
+}
